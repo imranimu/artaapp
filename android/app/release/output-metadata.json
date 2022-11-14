@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.lechef.Artauk",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 11000002,
+      "versionName": "2.0",
+      "outputFile": "app-release.apk"
+    }
+  ],
+  "elementType": "File"
+}
